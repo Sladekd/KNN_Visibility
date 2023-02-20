@@ -13,6 +13,8 @@ Before authorized used, it should be thoroughly tested and reviewed.
 - University of Utah: https://home.chpc.utah.edu/~u0553130/Camera_Display/wbbs.html, last access: 20 February 2023;
 - DWD: https://opendata.dwd.de/weather/webcam/Offenbach-W/, last access: 20 February 2023;
 
+Data provided in the files (Brno, Kobyli, Offenbach...) are not the exact data used for full research, they should be renamed and sorted into files based on the purpose of your study.
+
 ## Image coordinates of some orientation points:
 
 - Skalky tower [750:830,1410:1500], 1.5km;
