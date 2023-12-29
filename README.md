@@ -4,7 +4,7 @@ K-nearest neighbours classifier for determining visibility of objects.
 This code and dataset can be used for determination of the object visibility.
 Before authorized used, it should be thoroughly tested and reviewed.
 
-> I recommend to read my article: “To be filled after submission”.
+> I recommend to read my article: https://www.hindawi.com/journals/amete/2023/6285569/
 > If you use this code or its parts, feel free to cite.
 
 ## Sources
